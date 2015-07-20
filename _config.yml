@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       NTulip
+email:       nick@nicktulip.com
+author:      Nick Tulip
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://ntulip.github.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-65323035-1
 
 # Optional features
 animated:           false
@@ -20,7 +20,7 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username:ntulip
 stackoverflow_id:
 twitter_username:
 google_plus_id:
