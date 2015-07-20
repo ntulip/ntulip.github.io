@@ -3,7 +3,7 @@ title:       NTulip
 email:       nick@nicktulip.com
 author:      Nick Tulip
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
+baseurl:     "/ntulip.github.io"
 url:         "http://ntulip.github.io"
 
 # Google analytics
